@@ -67,7 +67,7 @@ I had the need to learn R and brush up my skills in probability and statistics. 
 [solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Normal_Distribution_II.R)
 <br><br>
 
-### Day 5
+### Day 6
 ---
 
 [Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem): 
