@@ -1,5 +1,5 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
-f <- file("./input04.txt")
+f <- file("stdin")
 on.exit(close(f))
 
 #look into row.names for this
