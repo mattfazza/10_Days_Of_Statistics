@@ -16,66 +16,66 @@ I had the need to learn R and brush up my skills in probability and statistics. 
 ---
 
 [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem): 
-[Solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_0/Mean_Median_Mode.R)
+[Solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%200/Mean_Median_Mode.R)
 <br>
 [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_0/Weighted_Mean.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%200/Weighted_Mean.R)
 <br><br>
 
 ### Day 1
 ---
 
 [Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_1/Standard_Deviation.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%201/Standard_Deviation.R)
 <br>
 [Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_1/Interquartile_Range.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%201/Interquartile_Range.R)
 <br>
 [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_1/Quartiles.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%201/Quartiles.R)
 <br><br>
 
 ### Day 4
 ---
 
 [Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_4/Binomial_Distribution_I.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%204/Binomial_Distribution_I.R)
 <br>
 [Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_4/Binomial_Distribution_II.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%204/Binomial_Distribution_II.R)
 <br>
 [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_4/Geometric_Distribution_II.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%204/Geometric_Distribution_II.R)
 <br>
 [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_4/Geometric_Distribution_II.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%204/Geometric_Distribution_II.R)
 <br><br>
 
 ### Day 5
 ---
 
 [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_5/Poisson_Distribution_I.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Poisson_Distribution_I.R)
 <br>
 [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_5/Poisson_Distribution_II.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Poisson_Distribution_II.R)
 <br>
 [Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_5/Normal_Distribution_I.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Normal_Distribution_I.R)
 <br>
 [Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_5/Normal_Distribution_II.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Normal_Distribution_II.R)
 <br><br>
 
 ### Day 5
 ---
 
 [Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_5/Poisson_Distribution_I.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Poisson_Distribution_I.R)
 <br>
 [Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_5/Poisson_Distribution_II.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Poisson_Distribution_II.R)
 <br>
 [Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day_5/Normal_Distribution_II.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Normal_Distribution_II.R)
 <br><br>
