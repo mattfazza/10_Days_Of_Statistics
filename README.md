@@ -11,6 +11,9 @@ I had the need to learn R and brush up my skills in probability and statistics. 
 * [Day 4](#day-4)
 * [Day 5](#day-5)
 * [Day 6](#day-6)
+* [Day 7](#day-7)
+* [Day 8](#day-8)
+* [Day 9](#day-9)
 
 ### Day 0
 ---
@@ -71,11 +74,35 @@ I had the need to learn R and brush up my skills in probability and statistics. 
 ---
 
 [Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Poisson_Distribution_I.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%206/Central_Limit_Theorem_I.R)
 <br>
 [Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Poisson_Distribution_II.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%206/Central_Limit_Theorem_II.R)
 <br>
 [Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Normal_Distribution_II.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%206/Central_Limit_Theorem_III.R)
+<br><br>
+
+### Day 7
+---
+
+[Pearson Correlation Coefficient](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem): 
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%207/Pearson_Correlation_Coefficient_I.R)
+<br>
+[Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem): 
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Spearmans_Rank_Correlation_Coefficient.R)
+<br><br>
+
+### Day 8
+---
+
+[Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem): 
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%208/Least_Square_Regression_Line.R)
+<br><br>
+
+### Day 9
+---
+
+[Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem): 
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%209/Multiple_Linear_Regression.R)
 <br><br>
