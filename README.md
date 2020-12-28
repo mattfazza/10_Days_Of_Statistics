@@ -92,7 +92,7 @@ I had the need to learn R and brush up my skills in probability and statistics. 
 [solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%207/Pearson_Correlation_Coefficient_I.R)
 <br>
 [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem): 
-[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%205/Spearmans_Rank_Correlation_Coefficient.R)
+[solution](https://github.com/mattfazza/10_Days_Of_Statistics/blob/master/Day%207/Spearmans_Rank_Correlation_Coefficient.R)
 <br><br>
 
 ### Day 8
