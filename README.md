@@ -4,6 +4,8 @@ I had the need to learn R and brush up my skills in probability and statistics. 
 
 *Basics.R contains the very first few lines of R I've ever written.
 
+**I also decided to always read the input from stdin.  Why?!  Because there are some challenges associated with reading inputs that should be used as a learning opportunity.  Halfway through the challenges HackerRank stops giving you inputs in stdin and you have to test against a custom input (which you can just copy and paste from the prompt).  Not all of those are straight-forward; especially with the regression challenges.
+
 ### Contents
 
 * [Day 0](#day-0) 
